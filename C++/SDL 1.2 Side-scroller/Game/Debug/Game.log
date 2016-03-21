@@ -1,0 +1,30 @@
+﻿Build started 3/22/2016 3:49:57 AM.
+     1>Project "C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt base.cpp enemy.cpp main.cpp game.cpp player.cpp
+         player.cpp
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\player.cpp(82): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\player.cpp(86): warning C4018: '<' : signed/unsigned mismatch
+         game.cpp
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(130): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(180): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ance\documents\stuff\java\game 2 (super good game)\game\game.cpp(198): warning C4018: '<' : signed/unsigned mismatch
+         main.cpp
+         enemy.cpp
+         base.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Debug\Game.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Debug\Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Debug\Game.lib" /MACHINE:X86 Debug\base.obj
+         Debug\enemy.obj
+         Debug\main.obj
+         Debug\game.obj
+         Debug\player.obj
+         Game.vcxproj -> C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Debug\Game.exe
+     1>Done Building Project "C:\Users\Ance\Documents\Stuff\Java\Game 2 (SUPER GOOD GAME)\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78

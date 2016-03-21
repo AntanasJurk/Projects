@@ -1,0 +1,230 @@
+﻿Build started 3/22/2016 4:39:22 AM.
+     1>Project "C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\DARBAS4 (2)\DARBAS4 (2).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Atributai_be_pavadinimo.c Isvedimas_i_faila.c Didziausia_reiksme.c Sudetis.c Vidurkis.c Salies_iterpimas.c Salies_paieska.c Irasymas.c Isvedimas_i_ekran.c Main.c Pasirinkimas.c Salies_pakeitimas.c
+         Salies_pakeitimas.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(11): warning C4013: 'isvedimas_i_ekrana' undefined; assuming extern returning int
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_pakeitimas.c(7): warning C4101: 'j' : unreferenced local variable
+         Pasirinkimas.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\pasirinkimas.c(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\pasirinkimas.c(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Main.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\main.c(23): warning C4048: different array subscripts : 'char (*)[19][300]' and 'char [19][300]'
+         Isvedimas_i_ekran.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\isvedimas_i_ekran.c(7): warning C4013: 'pavad' undefined; assuming extern returning int
+         Irasymas.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(30): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(30): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(31): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(31): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(32): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(33): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(33): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(34): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(34): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(35): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(36): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(36): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(37): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(37): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(38): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(38): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(39): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(40): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(40): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(41): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(41): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(42): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(43): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(44): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(45): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(45): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\irasymas.c(25): warning C4101: 'j' : unreferenced local variable
+         Salies_paieska.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_paieska.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_paieska.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_paieska.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_paieska.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Salies_iterpimas.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\salies_iterpimas.c(5): warning C4101: 'j' : unreferenced local variable
+         Vidurkis.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\vidurkis.c(9): warning C4013: 'atributai_be_pavad' undefined; assuming extern returning int
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\vidurkis.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Sudetis.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\sudetis.c(9): warning C4013: 'atributai_be_pavad' undefined; assuming extern returning int
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\sudetis.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Didziausia_reiksme.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\didziausia_reiksme.c(8): warning C4013: 'atributai_be_pavad' undefined; assuming extern returning int
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\didziausia_reiksme.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Isvedimas_i_faila.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\isvedimas_i_faila.c(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\isvedimas_i_faila.c(8): warning C4013: 'tikrinimas' undefined; assuming extern returning int
+         Atributai_be_pavadinimo.c
+     1>c:\users\ance\documents\stuff\c\darbas4 (3)\darbas4 (2)\definicijos.h(5): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(921) : see previous definition of 'max'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\Debug\DARBAS4 (2).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\Debug\DARBAS4 (2).pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\Debug\DARBAS4 (2).lib" /MACHINE:X86 Debug\Atributai_be_pavadinimo.obj
+         Debug\Isvedimas_i_faila.obj
+         Debug\Didziausia_reiksme.obj
+         Debug\Sudetis.obj
+         Debug\Vidurkis.obj
+         Debug\Salies_iterpimas.obj
+         Debug\Salies_paieska.obj
+         Debug\Irasymas.obj
+         Debug\Isvedimas_i_ekran.obj
+         Debug\Main.obj
+         Debug\Pasirinkimas.obj
+         Debug\Salies_pakeitimas.obj
+         DARBAS4 (2).vcxproj -> C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\Debug\DARBAS4 (2).exe
+     1>Done Building Project "C:\Users\Ance\Documents\Stuff\C\DARBAS4 (3)\DARBAS4 (2)\DARBAS4 (2).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

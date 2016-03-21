@@ -1,0 +1,90 @@
+Stekas SEGMENT STACK
+DB 256 DUP(?)
+Stekas ENDS
+Duom SEGMENT
+
+MAS DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+	DB 2, 1, 1, 1
+
+REZ DB 4 DUP(0)
+Ats DB 17 DUP(' '), '$'
+Ten DB 10
+Duom ENDS
+
+Prog SEGMENT
+ASSUME DS:Duom, CS:Prog, SS: stekas
+
+
+
+START: MOV AX, Duom
+  MOV DS, AX
+  
+MOV AX, 0600H
+MOV BH, 07
+MOV CX, 0000
+MOV DX, 184FH
+INT 10H
+ 
+  PRADEDAM:
+
+  CALL CALC
+  CALL SPAUS
+  LEA DX, Ats
+  MOV AH, 09h
+  INT 21h
+  
+
+
+CALC PROC
+MOV CX, 7		;eilutes/ ciklu skaicius
+LEA DI, MAS
+	CIKLASOUT:
+	PUSH CX
+	MOV CX, 4	;stulpeliai/ ciklu skaicius
+	LEA SI, REZ
+		CIKLASIN:
+		MOV DH, [DI]
+		ADD [SI], DH		;sudedam reiksmes
+		INC DI
+		INC SI
+		LOOP CIKLASIN
+	POP CX
+	LOOP CIKLASOUT
+RET
+CALC ENDP
+
+
+SPAUS PROC
+MOV CX, 4
+LEA BX, Ats + 16
+LEA DI, Rez + 3
+	CIKLAS:
+	MOV AX, 0
+	MOV AL, [DI]
+	PUSH CX
+	MOV CX, 3
+		CIKLASV:
+		DIV Ten
+		ADD AH, 30h
+		MOV [BX], AH
+		MOV AH, 0
+		DEC BX
+		LOOP CIKLASV
+	DEC DI
+	DEC BX
+	POP CX
+	LOOP CIKLAS
+RET
+SPAUS ENDP
+
+
+PABAIGA:
+MOV AH, 4Ch
+INT 21h
+Prog ENDS
+END START
